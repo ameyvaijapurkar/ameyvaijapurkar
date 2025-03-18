@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning pipelines to run as analysis on rnaseq data
 - 📫 How to reach me - why?
 - 😄 Pronouns: vinit
-- ⚡ Fun fact: i feel malaysian cadbury dairy milk silk is sweeter then indian cadbury dairy milk silk 
-
+- ⚡ Fun fact: Nothings funny in this in my life, not even tmkoc.
 <!---
 ameyvaijapurkar/ameyvaijapurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
