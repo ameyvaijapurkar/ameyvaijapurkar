@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ameyvaijapurkar
-- 👀 I’m interested in alternative splicing and RNA-seq
+- 👀 I’m interested in alternative splicing using RNA-seq I also have occasional fling with chromatin remodelling
 - 🌱 I’m currently learning pipelines to run as analysis on rnaseq data
 - 📫 How to reach me - why?
 - 😄 Pronouns: vinit
