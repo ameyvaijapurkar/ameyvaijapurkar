@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ameyvaijapurkar
 - 👀 I’m interested in alternative splicing using RNA-seq I also have occasional fling with chromatin remodelling
-- 🌱 I’m currently learning pipelines to run as analysis on rnaseq data
+- 🌱 I’m currently learning pipelines to run as analysis on RNA Seq, HI-C Seq, ChIP seq data.
 - 📫 How to reach me - why?
 - 😄 Pronouns: vinit
 - ⚡ Fun fact: Nothings funny in my life, not even tmkoc. Loves to see cars go around turns and chicanes. 🏎🚗
